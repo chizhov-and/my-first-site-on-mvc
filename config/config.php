@@ -1,6 +1,6 @@
 <?php
 
-Config::set('site_name','WEB-portal');
+Config::set('site_name','WEB-site');
 Config::set('languages',array('en','fr'));
 
 // Routes. Route name => method prefix
